@@ -1,5 +1,3 @@
-START TRANSACTION;
-
 SELECT
     item_id,
     name,
